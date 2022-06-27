@@ -18,6 +18,7 @@ public class LeetCode19 {
 		// TODO 自动生成的方法存根
 	}
 }
+
 /**
  * Definition for singly-linked list.
  */
