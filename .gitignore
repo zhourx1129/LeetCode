@@ -1,5 +1,7 @@
 # Compiled class file
 *.exe
+*.json
+*.mod
 *.class
 # Log file
 *.log
