@@ -1,10 +1,12 @@
-
+package leetcode1281;
 // 给你一个整数 n，请你帮忙计算并返回该整数「各位数字之积」与「各位数字之和」的差。
 
 public class Leetcode1281{
-    Solution s = new Solution();
-    int result = s.subtractProductAndSum(234);
-    System.out.println(result);
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        int result = s.subtractProductAndSum(234);
+        System.out.println(result);
+    }
 }
 class Solution {
     public int subtractProductAndSum(int n) {
